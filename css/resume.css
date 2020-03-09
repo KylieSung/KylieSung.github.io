@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
   padding-top: 54px;
   color: #868e96;
   font-size: 18px;
@@ -94,7 +94,7 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  color:#356712 ;
+  color:#554F80 ;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -168,17 +168,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #DAF7A6  !important;
+  background-color: #D9C8A7  !important;
 }
 
 .text-primary {
-  color: #B8F020 !important;
+  color: #CCC7A7 !important;
 }
 
 a {
-  color: #B8F020 ;
+  color: #E3D7AF ;
 }
 
 a:hover, a:focus, a:active {
-  color: #B8F020 ;
+  color: #E3E1AF ;
 }
